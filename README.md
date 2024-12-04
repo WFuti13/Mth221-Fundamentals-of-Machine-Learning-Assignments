@@ -1,1 +1,1 @@
-# Mth221-Fundamentals-of-Machinee-Learning-Assignments
+# Mth221-Fundamentals-of-Machine-Learning-Assignments
